@@ -108,7 +108,7 @@ In Gradle 7.0 we moved the following classes out of incubation phase.
 - org.gradle.tooling.model.eclipse.EclipseWorkspace
 - org.gradle.tooling.model.eclipse.EclipseWorkspaceProject
 - org.gradle.tooling.model.eclipse.RunClosedProjectBuildDependencies
-
+- org.gradle.process.ExecOperations
 <!--
 ### Example promoted
 -->
