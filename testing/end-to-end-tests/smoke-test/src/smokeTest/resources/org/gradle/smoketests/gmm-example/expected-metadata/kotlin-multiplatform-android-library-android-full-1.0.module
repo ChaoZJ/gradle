@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../kotlin-multiplatform-android-library/1.0/kotlin-multiplatform-android-library-1.0.module",
+    "url": "../../kotlin-mpp-android-library/1.0/kotlin-mpp-android-library-1.0.module",
     "group": "example",
-    "module": "kotlin-multiplatform-android-library",
+    "module": "kotlin-mpp-android-library",
     "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -27,8 +27,8 @@
       },
       "files": [
         {
-          "name": "kotlin-multiplatform-android-library-full-release.aar",
-          "url": "kotlin-multiplatform-android-library-android-full-1.0.aar",
+          "name": "kotlin-mpp-android-library-full-release.aar",
+          "url": "kotlin-mpp-android-library-android-full-1.0.aar",
           "size": 2100,
           "sha512": "3a1988390706b449d41d9b1c12471ed8fa4cfd876ec72b82991f4dbc6c40859d49f1a1cb3da6ad1e053ca5096b8e430e53a737bdd8d9b65b70b1a70a08751eff",
           "sha256": "ec40bf4e51487a673886baa48bf31ad4b77df2e1a8961c334638828418e6ee19",
@@ -64,8 +64,8 @@
       ],
       "files": [
         {
-          "name": "kotlin-multiplatform-android-library-full-release.aar",
-          "url": "kotlin-multiplatform-android-library-android-full-1.0.aar",
+          "name": "kotlin-mpp-android-library-full-release.aar",
+          "url": "kotlin-mpp-android-library-android-full-1.0.aar",
           "size": 2100,
           "sha512": "3a1988390706b449d41d9b1c12471ed8fa4cfd876ec72b82991f4dbc6c40859d49f1a1cb3da6ad1e053ca5096b8e430e53a737bdd8d9b65b70b1a70a08751eff",
           "sha256": "ec40bf4e51487a673886baa48bf31ad4b77df2e1a8961c334638828418e6ee19",
@@ -81,9 +81,9 @@
         "org.jetbrains.kotlin.platform.type": "common"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-metadata/1.0/kotlin-multiplatform-android-library-metadata-1.0.module",
+        "url": "../../kotlin-mpp-android-library-metadata/1.0/kotlin-mpp-android-library-metadata-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-metadata",
+        "module": "kotlin-mpp-android-library-metadata",
         "version": "1.0"
       }
     }

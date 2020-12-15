@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "example",
-    "module": "kotlin-multiplatform-library",
+    "module": "kotlin-mpp-library",
     "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -22,9 +22,9 @@
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-js/1.0/kotlin-multiplatform-library-js-1.0.module",
+        "url": "../../kotlin-mpp-library-js/1.0/kotlin-mpp-library-js-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-js",
+        "module": "kotlin-mpp-library-js",
         "version": "1.0"
       }
     },
@@ -35,9 +35,9 @@
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-js/1.0/kotlin-multiplatform-library-js-1.0.module",
+        "url": "../../kotlin-mpp-library-js/1.0/kotlin-mpp-library-js-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-js",
+        "module": "kotlin-mpp-library-js",
         "version": "1.0"
       }
     },
@@ -49,9 +49,9 @@
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-jvm/1.0/kotlin-multiplatform-library-jvm-1.0.module",
+        "url": "../../kotlin-mpp-library-jvm/1.0/kotlin-mpp-library-jvm-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-jvm",
+        "module": "kotlin-mpp-library-jvm",
         "version": "1.0"
       }
     },
@@ -63,9 +63,9 @@
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-jvm/1.0/kotlin-multiplatform-library-jvm-1.0.module",
+        "url": "../../kotlin-mpp-library-jvm/1.0/kotlin-mpp-library-jvm-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-jvm",
+        "module": "kotlin-mpp-library-jvm",
         "version": "1.0"
       }
     },
@@ -77,9 +77,9 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-linuxx64/1.0/kotlin-multiplatform-library-linuxx64-1.0.module",
+        "url": "../../kotlin-mpp-library-linuxx64/1.0/kotlin-mpp-library-linuxx64-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-linuxx64",
+        "module": "kotlin-mpp-library-linuxx64",
         "version": "1.0"
       }
     },
@@ -91,9 +91,9 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-macosx64/1.0/kotlin-multiplatform-library-macosx64-1.0.module",
+        "url": "../../kotlin-mpp-library-macosx64/1.0/kotlin-mpp-library-macosx64-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-macosx64",
+        "module": "kotlin-mpp-library-macosx64",
         "version": "1.0"
       }
     },
@@ -104,9 +104,9 @@
         "org.jetbrains.kotlin.platform.type": "common"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-metadata/1.0/kotlin-multiplatform-library-metadata-1.0.module",
+        "url": "../../kotlin-mpp-library-metadata/1.0/kotlin-mpp-library-metadata-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-metadata",
+        "module": "kotlin-mpp-library-metadata",
         "version": "1.0"
       }
     }

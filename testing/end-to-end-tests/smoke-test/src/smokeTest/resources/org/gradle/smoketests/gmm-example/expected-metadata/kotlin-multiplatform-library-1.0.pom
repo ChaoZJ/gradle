@@ -8,7 +8,7 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>example</groupId>
-  <artifactId>kotlin-multiplatform-library</artifactId>
+  <artifactId>kotlin-mpp-library</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
 </project>

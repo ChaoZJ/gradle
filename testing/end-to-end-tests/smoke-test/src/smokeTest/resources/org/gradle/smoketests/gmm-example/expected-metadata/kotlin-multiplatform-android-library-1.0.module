@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "example",
-    "module": "kotlin-multiplatform-android-library",
+    "module": "kotlin-mpp-android-library",
     "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,9 +25,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-demo-debug/1.0/kotlin-multiplatform-android-library-android-demo-debug-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-demo-debug/1.0/kotlin-mpp-android-library-android-demo-debug-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-demo-debug",
+        "module": "kotlin-mpp-android-library-android-demo-debug",
         "version": "1.0"
       }
     },
@@ -41,9 +41,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-demo-debug/1.0/kotlin-multiplatform-android-library-android-demo-debug-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-demo-debug/1.0/kotlin-mpp-android-library-android-demo-debug-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-demo-debug",
+        "module": "kotlin-mpp-android-library-android-demo-debug",
         "version": "1.0"
       }
     },
@@ -57,9 +57,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-full-debug/1.0/kotlin-multiplatform-android-library-android-full-debug-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-full-debug/1.0/kotlin-mpp-android-library-android-full-debug-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-full-debug",
+        "module": "kotlin-mpp-android-library-android-full-debug",
         "version": "1.0"
       }
     },
@@ -73,9 +73,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-full-debug/1.0/kotlin-multiplatform-android-library-android-full-debug-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-full-debug/1.0/kotlin-mpp-android-library-android-full-debug-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-full-debug",
+        "module": "kotlin-mpp-android-library-android-full-debug",
         "version": "1.0"
       }
     },
@@ -89,9 +89,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-demo/1.0/kotlin-multiplatform-android-library-android-demo-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-demo/1.0/kotlin-mpp-android-library-android-demo-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-demo",
+        "module": "kotlin-mpp-android-library-android-demo",
         "version": "1.0"
       }
     },
@@ -105,9 +105,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-demo/1.0/kotlin-multiplatform-android-library-android-demo-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-demo/1.0/kotlin-mpp-android-library-android-demo-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-demo",
+        "module": "kotlin-mpp-android-library-android-demo",
         "version": "1.0"
       }
     },
@@ -121,9 +121,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-full/1.0/kotlin-multiplatform-android-library-android-full-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-full/1.0/kotlin-mpp-android-library-android-full-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-full",
+        "module": "kotlin-mpp-android-library-android-full",
         "version": "1.0"
       }
     },
@@ -137,9 +137,9 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-android-full/1.0/kotlin-multiplatform-android-library-android-full-1.0.module",
+        "url": "../../kotlin-mpp-android-library-android-full/1.0/kotlin-mpp-android-library-android-full-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-android-full",
+        "module": "kotlin-mpp-android-library-android-full",
         "version": "1.0"
       }
     },
@@ -150,9 +150,9 @@
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-js/1.0/kotlin-multiplatform-android-library-js-1.0.module",
+        "url": "../../kotlin-mpp-android-library-js/1.0/kotlin-mpp-android-library-js-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-js",
+        "module": "kotlin-mpp-android-library-js",
         "version": "1.0"
       }
     },
@@ -163,9 +163,9 @@
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-js/1.0/kotlin-multiplatform-android-library-js-1.0.module",
+        "url": "../../kotlin-mpp-android-library-js/1.0/kotlin-mpp-android-library-js-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-js",
+        "module": "kotlin-mpp-android-library-js",
         "version": "1.0"
       }
     },
@@ -177,9 +177,9 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-linuxx64/1.0/kotlin-multiplatform-android-library-linuxx64-1.0.module",
+        "url": "../../kotlin-mpp-android-library-linuxx64/1.0/kotlin-mpp-android-library-linuxx64-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-linuxx64",
+        "module": "kotlin-mpp-android-library-linuxx64",
         "version": "1.0"
       }
     },
@@ -191,9 +191,9 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-macosx64/1.0/kotlin-multiplatform-android-library-macosx64-1.0.module",
+        "url": "../../kotlin-mpp-android-library-macosx64/1.0/kotlin-mpp-android-library-macosx64-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-macosx64",
+        "module": "kotlin-mpp-android-library-macosx64",
         "version": "1.0"
       }
     },
@@ -204,9 +204,9 @@
         "org.jetbrains.kotlin.platform.type": "common"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-metadata/1.0/kotlin-multiplatform-android-library-metadata-1.0.module",
+        "url": "../../kotlin-mpp-android-library-metadata/1.0/kotlin-mpp-android-library-metadata-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-metadata",
+        "module": "kotlin-mpp-android-library-metadata",
         "version": "1.0"
       }
     }

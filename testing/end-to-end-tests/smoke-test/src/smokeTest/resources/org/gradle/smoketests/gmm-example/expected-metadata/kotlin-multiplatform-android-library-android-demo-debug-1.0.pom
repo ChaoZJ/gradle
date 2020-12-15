@@ -7,7 +7,7 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>example</groupId>
-  <artifactId>kotlin-multiplatform-android-library-android-demo-debug</artifactId>
+  <artifactId>kotlin-mpp-android-library-android-demo-debug</artifactId>
   <version>1.0</version>
   <packaging>aar</packaging>
   <dependencies>

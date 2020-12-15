@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../kotlin-multiplatform-library/1.0/kotlin-multiplatform-library-1.0.module",
+    "url": "../../kotlin-mpp-library/1.0/kotlin-mpp-library-1.0.module",
     "group": "example",
-    "module": "kotlin-multiplatform-library",
+    "module": "kotlin-mpp-library",
     "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -34,8 +34,8 @@
       ],
       "files": [
         {
-          "name": "kotlin-multiplatform-library.klib",
-          "url": "kotlin-multiplatform-library-linuxx64-1.0.klib",
+          "name": "kotlin-mpp-library.klib",
+          "url": "kotlin-mpp-library-linuxx64-1.0.klib",
           "size": 5437,
           "sha512": "3a5c3f67392016bc90735bacc4788b823e155ddf714919d75d1590b0148f5b63d98f53b832c412dcb411fd8f53270c52e2dd83408739be146b550c56c02a9340",
           "sha256": "7dd6266ed30d631f6c2b95fb92946126ff711b3405a11f6a16ea3cc9b836b3a3",
@@ -51,9 +51,9 @@
         "org.jetbrains.kotlin.platform.type": "common"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-library-metadata/1.0/kotlin-multiplatform-library-metadata-1.0.module",
+        "url": "../../kotlin-mpp-library-metadata/1.0/kotlin-mpp-library-metadata-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-library-metadata",
+        "module": "kotlin-mpp-library-metadata",
         "version": "1.0"
       }
     }

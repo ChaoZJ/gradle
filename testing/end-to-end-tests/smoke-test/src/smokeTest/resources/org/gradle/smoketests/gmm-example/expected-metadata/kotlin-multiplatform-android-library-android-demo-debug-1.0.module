@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../kotlin-multiplatform-android-library/1.0/kotlin-multiplatform-android-library-1.0.module",
+    "url": "../../kotlin-mpp-android-library/1.0/kotlin-mpp-android-library-1.0.module",
     "group": "example",
-    "module": "kotlin-multiplatform-android-library",
+    "module": "kotlin-mpp-android-library",
     "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -27,8 +27,8 @@
       },
       "files": [
         {
-          "name": "kotlin-multiplatform-android-library-demo-debug.aar",
-          "url": "kotlin-multiplatform-android-library-android-demo-debug-1.0.aar",
+          "name": "kotlin-mpp-android-library-demo-debug.aar",
+          "url": "kotlin-mpp-android-library-android-demo-debug-1.0.aar",
           "size": 2196,
           "sha512": "28f2feaa7ad4df3c1c83d4245473cafdbc9654f784f8eba03781488d408a74a180c52f39d1fd864318fab1e4caa83f614b107bc062b2cafd371f264bb5992643",
           "sha256": "a17f98ed9bed5e6cd2cb947bf83520eea9e977708b46ba355b4e5e74b2fe3a23",
@@ -64,8 +64,8 @@
       ],
       "files": [
         {
-          "name": "kotlin-multiplatform-android-library-demo-debug.aar",
-          "url": "kotlin-multiplatform-android-library-android-demo-debug-1.0.aar",
+          "name": "kotlin-mpp-android-library-demo-debug.aar",
+          "url": "kotlin-mpp-android-library-android-demo-debug-1.0.aar",
           "size": 2196,
           "sha512": "28f2feaa7ad4df3c1c83d4245473cafdbc9654f784f8eba03781488d408a74a180c52f39d1fd864318fab1e4caa83f614b107bc062b2cafd371f264bb5992643",
           "sha256": "a17f98ed9bed5e6cd2cb947bf83520eea9e977708b46ba355b4e5e74b2fe3a23",
@@ -81,9 +81,9 @@
         "org.jetbrains.kotlin.platform.type": "common"
       },
       "available-at": {
-        "url": "../../kotlin-multiplatform-android-library-metadata/1.0/kotlin-multiplatform-android-library-metadata-1.0.module",
+        "url": "../../kotlin-mpp-android-library-metadata/1.0/kotlin-mpp-android-library-metadata-1.0.module",
         "group": "example",
-        "module": "kotlin-multiplatform-android-library-metadata",
+        "module": "kotlin-mpp-android-library-metadata",
         "version": "1.0"
       }
     }
