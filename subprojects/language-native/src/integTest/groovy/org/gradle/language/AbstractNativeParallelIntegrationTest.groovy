@@ -93,8 +93,6 @@ abstract class AbstractNativeParallelIntegrationTest extends AbstractInstalledTo
         setupParallelTaskAndExpectations(taskName)
 
         buildFile << """
-            import org.gradle.api.internal.AbstractTask
-
             ${callbackWorkerLeaseService}
 
             tasks.matching { it.name == '${taskName}' }.all { task ->
@@ -170,7 +168,7 @@ abstract class AbstractNativeParallelIntegrationTest extends AbstractInstalledTo
                     this.delegate = delegate
                     this.beforeCallback = beforeCallback
                     this.afterCallback = afterCallback
-                }
+                
                 
                 public void withoutProjectLock(Runnable action) {
                     delegate.withoutProjectLock(new Runnable() {
